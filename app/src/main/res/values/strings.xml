@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyDiceGame</string>
+    <string name="cd_dice6">dice6</string>
+    <string name="text_player_1">PLAYER 1 ROLL</string>
+    <string name="text_player_2">PLAYER 2 ROLL</string>
+    <string name="lives_p1">LIVES</string>
+    <string name="text_p1_roll">PLAYER 1 ROLL</string>
+    <string name="text_p2_roll">PLAYER 2 ROLL</string>
+    <string name="text_p1_rolled">PLAYER 1 ROLLED</string>
+    <string name="text_p2_rolled">PLAYER 2 ROLLED</string>
+</resources>
