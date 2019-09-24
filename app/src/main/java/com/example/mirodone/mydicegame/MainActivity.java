@@ -97,6 +97,7 @@ public class MainActivity extends AppCompatActivity {
                 } else {
 
                     text_player_1.setText(R.string.text_p1_rolled);
+                    view_dice_p1.setEnabled(false);
 
                 }
             }
